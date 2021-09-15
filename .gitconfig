@@ -1,0 +1,12 @@
+[user]
+	name = PRAKASH
+	email = prakashdsouza077@gmail.com
+	name = PRAKASH
+[alias]
+	s = status
+	i = init
+	A = add -A
+	c = commit -a -m
+	UN = config --global user.name
+	UE = config --global user.email
+	r = remote
