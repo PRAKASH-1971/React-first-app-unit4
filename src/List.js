@@ -1,7 +1,3 @@
-// const product = (a,b) =>{
-//     return a*b
-// }
-
 const ListItems = (props) =>{
     return(
         <div style={{textAlign:'left',width:'100%',paddingLeft:'50px'}}>
