@@ -16,7 +16,7 @@ function App() {
    <Bttn name="SEARCH" bgcolor="green"/>
    <Bttn name="HELP" bgcolor="purple"/>
    <Bttn name="HOME" bgcolor="pink"/>
-   <Bttn name="DOWNLOAD" bgcolor="brown"/>
+   {/* <Bttn name="DOWNLOAD" bgcolor="brown" /> */}
    </div>
    </div>
   );
